@@ -1,0 +1,4 @@
+s is master 
+
+this is not duplicate
+lets see how git will merge 
