@@ -1,4 +1,12 @@
-s is master 
 
-this is not duplicate
+This is master 
+
+this is not duplic
 lets see how git will merge 
+
+thiss is login branc content 
+try to be duplicate 
+checking it 
+
+
+santhosh
